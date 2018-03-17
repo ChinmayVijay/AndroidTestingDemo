@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndroidTestingDemo</string>
+    <string name="testing_txt">This is Testing Demo</string>
+    <string name="click_me">Click Me</string>
+    <string name="espressoText">hello espresso!</string>
+</resources>
